@@ -12,4 +12,11 @@ Exploring the latent space of the network.
 
 ![32chan](/images/32chan.png){:.center-image }{:height="212px" width="757px"}
 
+### Upscaling 
+
+![upscaling](/images/upscaling.png){:.center-image }{:height="456px" width="786x"}
+
+
+
+
 
